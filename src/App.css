@@ -1,0 +1,23 @@
+.head{
+  margin-top: -10px;
+  margin-left: 20px;
+}
+.head p{
+  font-size: 35px;
+  font-weight: 700;
+}
+.steps{
+  display: flex;
+  flex-direction: column;
+}
+.st1{
+  margin-left: 10px;
+}
+.steps p{
+  font-size: 20px;
+  padding-left: 10px;
+  margin-top: -5px;
+}
+.st2{
+  margin-left: 10px;
+}
