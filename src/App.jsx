@@ -22,6 +22,9 @@ function App() {
       <h2 className='st2'>4.Listen to Your Body and Rest</h2>
       <p>Pay attention to how your body feels during and after workouts. It's normal to experience some soreness, but sharp or persistent pain could indicate an injury. Don't push through pain – give your body time to rest and recover. Adequate rest is essential for muscle repair and growth, so incorporate rest days into your routine and prioritize quality sleep each night.</p>
     </div>
+    <div className='footer'>
+      <p>Developed by Link @ 2024 Link</p>
+    </div>
 
     </>
   )
